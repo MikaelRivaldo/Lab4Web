@@ -486,5 +486,10 @@ float: right;
 
 ![tampilan akhir](https://github.com/MikaelRivaldo/Lab4Web/assets/115770247/82fb9a02-8783-4fc2-bc8b-4ba9956bd2d0)
 
+---
+
+# Tugas
+
+![tugas](https://github.com/MikaelRivaldo/Lab4Web/assets/115770247/33eadf0e-b524-4598-a3c0-a6ce5b36b57c)
 
 
